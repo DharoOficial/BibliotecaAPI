@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\repositories\\usuariorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\repositories\\usuariorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\autorization\\admimauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\autorization\\admimauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\utils\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\utils\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\repositories\\autorrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\repositories\\autorrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\autorization\\checkadmim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\autorization\\checkadmim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\models\\dtos\\usuario\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\models\\dtos\\usuario\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\context\\bibliotecacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\context\\bibliotecacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\models\\dtos\\usuario\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\models\\dtos\\usuario\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\mvcapibiblioteca\\migrations\\20240515205613_adicionanndorolenousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\migrations\\20240515205613_adicionanndorolenousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\Autor.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Models\\Autor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:29:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\AutorController.cs*",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Controllers\\AutorController.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:29:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdmimAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Autorization\\AdmimAuthorization.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Autorization\\AdmimAuthorization.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Autorization\\AdmimAuthorization.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Autorization\\AdmimAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:30:39.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Repositories\\UsuarioRepositories.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Repositories\\UsuarioRepositories.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Repositories\\UsuarioRepositories.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Repositories\\UsuarioRepositories.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAawDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:53:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenJwt.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Utils\\TokenJwt.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Utils\\TokenJwt.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Utils\\TokenJwt.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Utils\\TokenJwt.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:37:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Program.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:12:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\Usuarios.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:52:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:51:02.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240515205613_AdicionanndoRoleNoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Migrations\\20240515205613_AdicionanndoRoleNoUsuario.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Migrations\\20240515205613_AdicionanndoRoleNoUsuario.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Migrations\\20240515205613_AdicionanndoRoleNoUsuario.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Migrations\\20240515205613_AdicionanndoRoleNoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:56:13.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Controllers\\UsuarioController.cs*",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA9wGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:51:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Repositories\\AutorRepositorie.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Repositories\\AutorRepositorie.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Repositories\\AutorRepositorie.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Repositories\\AutorRepositorie.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAArwFEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:25:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckAdmim.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Autorization\\CheckAdmim.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Autorization\\CheckAdmim.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Autorization\\CheckAdmim.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Autorization\\CheckAdmim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:26:18.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\LoginUsuario.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\LoginUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:01:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BibliotecaContexto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Context\\BibliotecaContexto.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Context\\BibliotecaContexto.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Context\\BibliotecaContexto.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Context\\BibliotecaContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:55:15.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\CreateUsuarioDto.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\CreateUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\CreateUsuarioDto.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Models\\DTOs\\Usuario\\CreateUsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:47:44.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
