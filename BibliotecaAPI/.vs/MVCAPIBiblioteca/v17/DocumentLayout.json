@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\utils\\createnewfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\utils\\createnewfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\repositories\\livrorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\repositories\\livrorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|c:\\users\\erick\\documents\\aspnetcore\\mvcapibiblioteca\\bibliotecaapi\\mvcapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C385A-D682-479E-AB7A-E18E1E076EAB}|MVCAPIBiblioteca\\MVCAPIBiblioteca.csproj|solutionrelative:mvcapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwEsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:57:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Models\\Livro.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Models\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:25:54.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:23:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Repositories\\LivroRepositories.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Repositories\\LivroRepositories.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Repositories\\LivroRepositories.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Repositories\\LivroRepositories.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswFMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:22:50.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateNewFile.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Utils\\CreateNewFile.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Utils\\CreateNewFile.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Utils\\CreateNewFile.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Utils\\CreateNewFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:58:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAPIBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\Documents\\AspNetCore\\MVCAPIBiblioteca\\BibliotecaAPI\\MVCAPIBiblioteca\\Program.cs",
+              "RelativeToolTip": "MVCAPIBiblioteca\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:25:46.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
