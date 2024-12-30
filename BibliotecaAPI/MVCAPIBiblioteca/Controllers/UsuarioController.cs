@@ -30,7 +30,7 @@ namespace MVCAPIBiblioteca.Controllers
             {
                 string userLogedIn = usuarioRepositories.Login(userLogin);
                 if (userLogedIn != null)
-                    return Ok(userLogedIn);
+                    return Ok(new { token = userLogedIn });
                 return NotFound();
             }catch(Exception ex)
             {
