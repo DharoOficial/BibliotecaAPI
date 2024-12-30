@@ -29,7 +29,7 @@ namespace MVCAPIBiblioteca.Repositories
             Usuarios userLogin = _context.Usuarios.FirstOrDefault(x => x.Password == userDto.Password && x.Email == userDto.Email)!;
             if (userLogin == null)
                 return null;
-            var token = TokenJwt<Usuarios>.GerarToken(userLogin);
+            var token = TokenJwt<Usuarios>.GerarToken(userLogin).ToString();
             return token;
         }
 

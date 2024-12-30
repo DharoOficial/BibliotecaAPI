@@ -42,6 +42,15 @@ builder.Services.AddAuthentication(x =>
         
     };
 });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocalhost3000", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000") // Permitir apenas este domínio
+              .AllowAnyHeader()                     // Permitir todos os cabeçalhos
+              .AllowAnyMethod();                    // Permitir todos os métodos (GET, POST, etc.)
+    });
+});
 
 var app = builder.Build();
 
@@ -51,6 +60,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowLocalhost3000");
 
 app.UseHttpsRedirection();
 

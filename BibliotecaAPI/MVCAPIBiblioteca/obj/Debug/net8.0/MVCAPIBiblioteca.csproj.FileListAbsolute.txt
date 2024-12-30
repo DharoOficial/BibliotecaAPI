@@ -290,3 +290,4 @@ C:\Users\erick\Documents\AspNetCore\MVCAPIBiblioteca\BibliotecaAPI\MVCAPIBibliot
 C:\Users\erick\Documents\AspNetCore\MVCAPIBiblioteca\BibliotecaAPI\MVCAPIBiblioteca\obj\Debug\net8.0\MVCAPIBiblioteca.pdb
 C:\Users\erick\Documents\AspNetCore\MVCAPIBiblioteca\BibliotecaAPI\MVCAPIBiblioteca\obj\Debug\net8.0\MVCAPIBiblioteca.genruntimeconfig.cache
 C:\Users\erick\Documents\AspNetCore\MVCAPIBiblioteca\BibliotecaAPI\MVCAPIBiblioteca\obj\Debug\net8.0\ref\MVCAPIBiblioteca.dll
+C:\Users\erick\Documents\AspNetCore\MVCAPIBiblioteca\BibliotecaAPI\MVCAPIBiblioteca\obj\Debug\net8.0\MVCAPIBiblioteca.sourcelink.json

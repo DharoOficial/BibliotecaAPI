@@ -15,7 +15,7 @@ namespace MVCAPIBiblioteca.Repositories
         
         public LivroDTOsAutor AdicionarLivro(LivroDTOsAutor livroDtos)
         {
-            Livro livro = new Livro(livroDtos.NomeLivro,livroDtos.NumeroPagina,livroDtos.IdAutor);
+            Livro livro = new Livro(livroDtos.NomeLivro,livroDtos.NumeroPagina,livroDtos.IdAutor,livroDtos.DescLivro);
             livroDtos.Id = livro.Id;
             try
             {
@@ -79,6 +79,23 @@ namespace MVCAPIBiblioteca.Repositories
             {
                 return new Livro();
             }
+        }
+
+        public ICollection<Livro> BuscarLivroPorAutor(string idAutor)
+        {
+            try
+            {
+                List<Livro> listaLivro = _context.Livro.ToList();
+                if(listaLivro != null)
+                {
+                    List<Livro> ListaDeAutor = listaLivro.Where(x => x.IdAutor == idAutor).ToList();
+                    return ListaDeAutor;
+                } return null;
+            }catch(Exception ex)
+            {
+                return null;
+            }
+            
         }
     }
 }

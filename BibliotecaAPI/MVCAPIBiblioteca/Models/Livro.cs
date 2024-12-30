@@ -7,12 +7,13 @@ public class Livro
     public Livro()
     {
     }
-    public Livro(string nomeLivro, int numeroPagina, string idAutor)
+    public Livro(string nomeLivro, int numeroPagina, string idAutor, string descLivro)
     {
         NomeLivro = nomeLivro;
         NumeroPagina = numeroPagina;
         Id = Guid.NewGuid();
         IdAutor = idAutor;
+        DescLivro = descLivro;
     }
     [Key]
     public Guid Id { get; set; }
